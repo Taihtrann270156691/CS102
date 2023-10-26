@@ -2,6 +2,7 @@
 #include <string>
 #include <memory>
 //Testing edititing in git hup repository
+//Test update using pull
 class Entity
 {
 public:
