@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Log.h"
-
+//Test Math.cpp
 static int Multiply(int a, int b)
 {
 	Log("Multiply");
