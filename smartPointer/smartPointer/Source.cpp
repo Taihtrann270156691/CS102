@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <memory>
-
+//Testing edititing in git hup repository
 class Entity
 {
 public:
